@@ -12,7 +12,7 @@
 
 ---
 
-### 👩‍💻 About Me
+### 👩‍💻 Summary
 
 - 🎓 Recently graduated with **Bachelor's of Computer Applications** at **Somaiya Vidyavihar University, Mumbai**  
 - 🛠️ Focused on **full-stack development**, API integration & scalable backend systems  
