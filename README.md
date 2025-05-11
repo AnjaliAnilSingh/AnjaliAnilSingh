@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anjali Singh</h1>
+<h1 align="center">👋 Hi, I'm Anjali Singh</h1>
 <h3 align="center">Aspiring Software Developer | Full-Stack Web Enthusiast</h3>
 
 <p align="center">
